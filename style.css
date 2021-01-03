@@ -1,6 +1,7 @@
 
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 h1{
     font-size: 30px;
@@ -17,11 +18,18 @@ h1{
 .mm{
     
     
-    float:left;
-    width:40%;
+   float:left;
+    width:50%;
     margin left:5%;
     padding left: 2%;
 }
 .mm img{
     width:100%;
+}
+.banner{
+    background-image:url("images/top-banner.png");
+}
+section{
+    height:500px;
+    background-repeat: no-repeat;
 }
